@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b3df8bed-1f8a-4edc-ba5e-c3afb3ddcb2f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1gabWNzb4VdTcrGsxDTSYtllFzE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.account.html">
+    <configuration name="account.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Red Store/account.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="cart.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Red Store/cart.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Red Store/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="product-details.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Red Store/product-details.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="products.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Red Store/products.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.account.html" />
+        <item itemvalue="JavaScript Debug.products.html" />
+        <item itemvalue="JavaScript Debug.cart.html" />
+        <item itemvalue="JavaScript Debug.product-details.html" />
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b3df8bed-1f8a-4edc-ba5e-c3afb3ddcb2f" name="Default Changelist" comment="" />
+      <created>1598355681058</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598355681058</updated>
+      <workItem from="1598355682112" duration="9361000" />
+      <workItem from="1598375820184" duration="724000" />
+      <workItem from="1598390730462" duration="595000" />
+      <workItem from="1598548592248" duration="1392000" />
+      <workItem from="1598604986647" duration="6389000" />
+      <workItem from="1598611440696" duration="5608000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="480" y="158" key="FileChooserDialogImpl" timestamp="1598374016358">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="480" y="158" key="FileChooserDialogImpl/0.0.1440.860@0.0.1440.860" timestamp="1598374016358" />
+    <state width="1361" height="229" key="GridCell.Tab.0.bottom" timestamp="1598615913031">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1361" height="229" key="GridCell.Tab.0.bottom/0.0.1440.860@0.0.1440.860" timestamp="1598615913031" />
+    <state width="1361" height="229" key="GridCell.Tab.0.center" timestamp="1598615913031">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1361" height="229" key="GridCell.Tab.0.center/0.0.1440.860@0.0.1440.860" timestamp="1598615913031" />
+    <state width="1361" height="229" key="GridCell.Tab.0.left" timestamp="1598615913031">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1361" height="229" key="GridCell.Tab.0.left/0.0.1440.860@0.0.1440.860" timestamp="1598615913031" />
+    <state width="1361" height="229" key="GridCell.Tab.0.right" timestamp="1598615913031">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1361" height="229" key="GridCell.Tab.0.right/0.0.1440.860@0.0.1440.860" timestamp="1598615913031" />
+    <state width="1361" height="229" key="GridCell.Tab.1.bottom" timestamp="1598615913031">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1361" height="229" key="GridCell.Tab.1.bottom/0.0.1440.860@0.0.1440.860" timestamp="1598615913031" />
+    <state width="1361" height="229" key="GridCell.Tab.1.center" timestamp="1598615913031">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1361" height="229" key="GridCell.Tab.1.center/0.0.1440.860@0.0.1440.860" timestamp="1598615913031" />
+    <state width="1361" height="229" key="GridCell.Tab.1.left" timestamp="1598615913031">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1361" height="229" key="GridCell.Tab.1.left/0.0.1440.860@0.0.1440.860" timestamp="1598615913031" />
+    <state width="1361" height="229" key="GridCell.Tab.1.right" timestamp="1598615913031">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1361" height="229" key="GridCell.Tab.1.right/0.0.1440.860@0.0.1440.860" timestamp="1598615913031" />
+    <state x="356" y="184" key="run.anything.popup" timestamp="1598371067473">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="356" y="184" key="run.anything.popup/0.0.1440.860@0.0.1440.860" timestamp="1598371067473" />
+    <state x="363" y="179" width="672" height="678" key="search.everywhere.popup" timestamp="1598371476199">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="363" y="179" width="672" height="678" key="search.everywhere.popup/0.0.1440.860@0.0.1440.860" timestamp="1598371476199" />
+  </component>
+</project>
